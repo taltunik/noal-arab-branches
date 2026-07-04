@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "title": "The Arab Branches - HaNoar HaOved VeHaLomed",
+    "description": "A Home for Hope - the Arab Branches of HaNoar HaOved VeHaLomed youth movement: 55 towns, 20,000 members, and a leadership path from 4th grade to leading the community."
+  },
+  "nav": {
+    "brandName": "The Arab Branches",
+    "about": "Who We Are",
+    "numbers": "Our Numbers",
+    "map": "Activity Map",
+    "path": "Leadership Path",
+    "events": "Our Year",
+    "alumni": "Our Alumni",
+    "contact": "Contact Us",
+    "alumniSite": "Alumni Site"
+  },
+  "hero": {
+    "sloganPrimary": "A Home for Hope",
+    "sloganSecondary": "لدينا بيت للأمل",
+    "subtitle": "The Arab Branches of HaNoar HaOved VeHaLomed youth movement",
+    "ctaJoin": "Join Us",
+    "ctaAlumni": "Alumni Site",
+    "imageAlt": "Movement members in the blue shirts"
+  },
+  "about": {
+    "title": "Who We Are",
+    "p1": "HaNoar HaOved VeHaLomed (the Working and Studying Youth) was founded in 1924 to defend the rights of young workers. The blue shirt symbolizes the working class, and the red lanyard - the blood of workers who fought for their rights.",
+    "p2": "In 1983 the Arab Branches Circle was founded within the movement. Today we are active in 55 Arab and Bedouin towns and mixed cities across four districts.",
+    "p3": "We believe in equality and social justice, and we raise a generation of responsible leaders who take an active part in their community and lead it toward a better tomorrow.",
+    "imageAlt": "Educational activity at one of the branches"
+  },
+  "stats": {
+    "title": "Our Numbers",
+    "subtitle": "The Arab Branches today",
+    "s1": "youth members",
+    "s2": "Arab and Bedouin towns and mixed cities",
+    "s3": "districts: North, Haifa, Center, South",
+    "s4": "young counselors (grades 9-10) leading the weekly activity",
+    "s5": "national service volunteers in movement shirts every year",
+    "s6": "alumni integrated in Israeli society",
+    "s7": "town coordinators"
+  },
+  "map": {
+    "title": "Activity Map",
+    "subtitle": "55 towns in four districts - from the North to the Negev",
+    "districtNorth": "North District",
+    "districtHaifa": "Haifa District",
+    "districtCenter": "Center District",
+    "districtSouth": "South District",
+    "note": "The towns shown are a selection of our activity locations",
+    "towns": {
+      "tuba": "Tuba-Zangariyye",
+      "nahf": "Nahf",
+      "tarshiha": "Tarshiha",
+      "sheikhDanun": "Sheikh Danun",
+      "acre": "Acre",
+      "kamane": "Kamane",
+      "tamra": "Tamra",
+      "nazareth": "Nazareth",
+      "sakhnin": "Sakhnin",
+      "haifa": "Haifa",
+      "ummAlFahm": "Umm al-Fahm",
+      "kafrQara": "Kafr Qara",
+      "baqa": "Baqa al-Gharbiyye",
+      "jerusalem": "Jerusalem",
+      "hura": "Hura",
+      "alFura": "al-Fur'a",
+      "rahat": "Rahat"
+    }
+  },
+  "path": {
+    "title": "The Leadership Path",
+    "subtitle": "Youth leading youth - an incubator for leadership in Arab society",
+    "stage1Title": "Young & Junior-High Groups",
+    "stage1Ages": "Grades 4-8",
+    "stage1Points": "Weekly branch activity|Values education|Trips and camps|Meeting the other|Volunteering in town",
+    "stage2Title": "Young Counselors - Young Leadership",
+    "stage2Ages": "Grades 9-11",
+    "stage2Points": "Leading and guiding groups|Public speaking|Shaping identity",
+    "stage3Title": "National Service Group in Movement Shirts",
+    "stage3Ages": "Ages 18-22",
+    "stage3Points": "Leading branches|Role models for the younger generation|Hebrew studies|Jewish-Arab-Druze encounters",
+    "stage4Title": "Young Adults Leading Society",
+    "stage4Ages": "23+",
+    "stage4Points": "Town coordinators|Alumni leading in the community"
+  },
+  "events": {
+    "title": "Our Year",
+    "subtitle": "Peak events of the Arab Branches",
+    "e1": "Social Leadership Course",
+    "e2": "Coordinators Course",
+    "e3": "Tajamhur - the National Gathering",
+    "e4": "Winter Break Trip",
+    "e5": "Eilat Trip",
+    "e6": "Mount Hermon Trip (Jabal al-Sheikh)",
+    "e7": "Ramadan & Holidays - Eid al-Fitr, Eid al-Adha, Christmas",
+    "e8": "\"Towards Guiding\" Course (Nahwa al-Irshad)",
+    "e9": "Murshid Adel",
+    "e10": "Dream Camp (Mukhayyam al-Ahlam)",
+    "imageAlt": "Photo from {name}"
+  },
+  "alumni": {
+    "title": "Our Alumni",
+    "slogan": "كنت جزءاً من القصة... ابقَ جزءاً من العائلة",
+    "sloganTranslation": "You were part of the story... stay part of the family",
+    "text": "The Arab Branches alumni network connects thousands of graduates who lead today in education, medicine, hi-tech, academia, local government, law and culture.",
+    "button": "To the Alumni Network"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Parents, youth, alumni and partners - we would love to hear from you",
+    "name": "Full Name",
+    "town": "Town",
+    "phone": "Phone",
+    "iAm": "I am a",
+    "roleParent": "Parent",
+    "roleYouth": "Youth",
+    "roleAlumni": "Alumnus / Alumna",
+    "rolePartner": "Organizational Partner",
+    "message": "Message",
+    "messagePlaceholder": "Write to us...",
+    "submit": "Send",
+    "success": "Thank you! We will get back to you soon",
+    "nameError": "Please enter your full name",
+    "phoneError": "Invalid phone number",
+    "detailsTitle": "More ways to reach us",
+    "movementSite": "Movement Website",
+    "followUs": "Follow Us"
+  },
+  "footer": {
+    "rights": "© 2026 The Arab Branches - HaNoar HaOved VeHaLomed. All rights reserved.",
+    "alumniLink": "Alumni Network",
+    "movementLink": "Movement Website",
+    "slogan": "A Home for Hope"
+  }
+}
